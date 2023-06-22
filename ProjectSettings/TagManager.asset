@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brick
+  - Block
+  - Stone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Base
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - PlayerBullet
+  - EnemyBullet
+  - Power
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base
+    uniqueID: 603795339
+    locked: 0
+  - name: Tank
+    uniqueID: 3677091057
+    locked: 0
+  - name: Bullet
+    uniqueID: 542013899
+    locked: 0
+  - name: Effect
+    uniqueID: 91600249
+    locked: 0
+  - name: Tree
+    uniqueID: 496115839
+    locked: 0
+  - name: Power
+    uniqueID: 310690441
+    locked: 0
+  - name: UI
+    uniqueID: 4278779065
+    locked: 0
